@@ -27,8 +27,6 @@
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Nimal-dev/Nimal-dev/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-<a href="https://github.com/Nimal-dev"><img src="https://ghchart.rshah.org/2e7cf6/Nimal-dev" alt="Nimal-dev's contribution graph" width="100%" /></a>
-
 <img src="https://streak-stats.demolab.com?user=Nimal-dev&background=EEF6FF&border=17162B&ring=FFD23F&fire=FF5E3A&currStreakLabel=17162B&sideLabels=17162B&dates=4D4F6B&currStreakNum=17162B&sideNums=17162B&border_radius=16" alt="GitHub streak" />
 
 </div>
